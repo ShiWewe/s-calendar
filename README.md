@@ -1,16 +1,23 @@
-# s-calendar
+# shi-calendar项目
 
-> A custom small calendar
+> 一个自定义的日历组件（A custom small calendar）
 
-## Build Setup
+### 项目安装
 
 ``` bash
-# install dependencies
 npm install
-
-# serve with hot reload at localhost:8080
 npm run dev
-
-# build for production with minification
-npm run build
 ```
+
+# npm安装使用：shi-calendar
+
+``` bash
+npm i shi-calendar
+
+import shiCalendar from 'shi-calendar'
+
+<shi-calendar></shi-calendar>
+```
+
+### 效果图
+![calendar.png](https://github.com/ShiWewe/s-calendar/blob/master/src/screenshots/calendar.png)
